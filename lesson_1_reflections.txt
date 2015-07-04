@@ -25,5 +25,3 @@ it would indeed make testing new things less detrimental
 
 Now that you have your workspace set up, what do you want to try using Git for?
 finishing the course
-
-
