@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+creates metadata for the git structure/framework, to use the git system to
+take advantage of its version control
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+the staging area is the area where you build the logical/modular commits
+the working directory is all the files you are working on/change (or sometimes
+not)
+the repository is everything together
