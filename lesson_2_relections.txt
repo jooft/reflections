@@ -8,3 +8,7 @@ the staging area is the area where you build the logical/modular commits
 the working directory is all the files you are working on/change (or sometimes
 not)
 the repository is everything together
+
+How can you use the staging area to make sure you have one commit per logical change?
+running git diff with no args and then adding/removing to make sure you commit in
+logical blocks
