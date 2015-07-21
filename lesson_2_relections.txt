@@ -18,3 +18,6 @@ How would branches help?
 testing new features, big updates
 branches would help by saving working versions before new experimental changes or large changes
 are made
+
+How do the diagrams help you visualize the branch structure?
+they show the parent relations and the flow of those relations
