@@ -1,2 +1,2 @@
 When would you want to create a remote repository rather than keeping all your work local?
-Multiple users, access multiple pcs, share with the world
+Multiple users, access multiple pcs, share with the world.
