@@ -10,3 +10,6 @@ of another?
 fork - taking someone elses repo and making a version for you to edit in your user repos
 clone - copying a repo (yours, local/remote)
 branch - inside a repo, two or more version chains of the repo
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+less to merge? not sure what else. fast-forward merge?
