@@ -26,3 +26,7 @@ What is the result of merging two branches together? Why do we represent it in t
 way we do?
 a new master branch with the commits from both branches
 to show the parent relations
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+pros - save time, easy
+cons - conflicts
