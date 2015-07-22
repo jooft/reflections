@@ -21,3 +21,8 @@ are made
 
 How do the diagrams help you visualize the branch structure?
 they show the parent relations and the flow of those relations
+
+What is the result of merging two branches together? Why do we represent it in the diagram the
+way we do?
+a new master branch with the commits from both branches
+to show the parent relations
